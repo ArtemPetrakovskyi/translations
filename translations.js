@@ -11972,6 +11972,9 @@ var translations = {
 			credit:[{
 				name:"Artem Petrakovskyi",
 				link:"https://steamcommunity.com/profiles/76561198984555813/"
+			},{
+				name:"NickGYVER",
+				link:"https://steamcommunity.com/id/nekit9532"
 			}]
 		vi:{
 		   name:"Tiếng Việt",
