@@ -20,6 +20,7 @@
 				"tr":"Tümü",
 				"nl":"Alles",
 				"ar":"الكل",
+				"uk":"Усі",
 				"vi":"Tất cả"
 			},
 			"o":0
@@ -38,6 +39,7 @@
 				"nl":"Nieuw",
 				"pt":"Novo",
 				"ar":"جديد",
+				"uk":"Нові",
 				"vi":"Mới"
 			},
 			"o":1
@@ -68,6 +70,7 @@
 				"ru":"Популярный",
 				"th":"เป็นที่นิยม",
 				"tr":"Popüler",
+				"uk":"Популярний",
 				"zh":"受欢迎的",
 				"zh-tw":"受歡迎的",
 				"vi":"Phổ Biến"
@@ -193,6 +196,7 @@
 				"ru":"Новые: Scorched Earth",
 				"de":"Neu auf Scorched Earth",
 				"ar":"جديد للارض المحترقه",
+				"uk":"Нові на Scorched Earth",
 				"vi":"Mới với Scorched Earth"
 			},
 			"o":20,
@@ -208,6 +212,7 @@
 				"ru":"Новые: Aberration",
 				"de":"Neu auf Aberration",
 				"ar":"(جديد لابيريشن (الانحراف",
+				"uk":"Нові на Aberration",
 				"vi":"Mới với Aberration"
 			},
 			"o":21,
@@ -223,6 +228,7 @@
 				"ru":"Новые: Extinction",
 				"de":"Neu auf Extinction",
 				"ar":"جديد لاكستنشن(الانقراض)",
+				"uk":"Нові на Extinction",
 				"vi":"Mới với Extinction"
 			},
 			"o":22,
@@ -238,6 +244,7 @@
 				"ru":"Новые: Genesis",
 				"de":"Neu auf Genesis",
 				"ar":"جديد لجينيسس (المنشأ)",
+				"uk":"Нові на Genesis",
 				"vi":"Mới với Genesis"
 			},
 			"o":23,
@@ -253,6 +260,7 @@
 				"ru":"Новые: Crystal Isles",
 				"de":"Neu auf Crystal Isles",
 				"ar":"جديد لكرستل ايلز(الجزر الكرستاليه)",
+				"uk":"Нові на Crystal Isles",
 				"vi":"Mới với Crystal Isles"
 			},
 			"o":24,
@@ -261,7 +269,8 @@
 		},
 		"46":{
 			"n":"New To Genesis Part 2",
-			"nt":{
+			"nt":{	
+				"uk":"Нові на Genesis Part 2",
 				"zh":"《創世紀第二部份》新生物",
 				"vi":"Mới với Genesis Part 2"
 			},
@@ -270,7 +279,8 @@
 		},
 		"48":{
 			"n":"New To Lost Island",
-			"nt":{
+			"nt":{	
+				"uk":"Нові на Lost Island",
 				"zh":"《失落之島》新生物",
 				"vi":"Mới với Lost Island"
 			},
@@ -278,6 +288,7 @@
 			"p":2
 		},
 		"49":{
+			"uk":"Нові на Fjordur",
 			"n":"New To Fjordur",
 			"nt":{
 				"vi":"Mới với Fjordur"
@@ -300,6 +311,7 @@
 				"nl":"Aards",
 				"pt":"Terrestre",
 				"ar":"أنسان",
+				"uk":"Сухопутні",
 				"vi":"Trên cạn"
 			},
 			"o":30,
@@ -320,6 +332,7 @@
 				"nl":"Vliegend",
 				"pt":"Aéreo",
 				"ar":"جوي",
+				"uk":"Повітряні",
 				"vi":"Trên không"
 			},
 			"o":31,
@@ -339,6 +352,7 @@
 				"nl":"Aquatisch",
 				"pt":"Aquático",
 				"ar":"مائي",
+				"uk":"Водяні",
 				"vi":"Dưới nước"
 			},
 			"o":32,
@@ -359,6 +373,7 @@
 				"nl":"Rijdbaar",
 				"pt":"Montável",
 				"ar":"قابل للركب",
+				"uk":"Їздові",
 				"vi":"Cưỡi được"
 			},
 			"o":40,
@@ -378,6 +393,7 @@
 				"nl":"Bruikbaar Zadel",
 				"pt":"Sela Utilitária",
 				"ar":"سرج مفيد",
+				"uk":"Звичайне сідло",
 				"vi":"Yên đa năng"
 			},
 			"o":42,
@@ -397,6 +413,7 @@
 				"nl":"Platform Zadel",
 				"pt":"Sela Plataforma",
 				"ar":"منصة السرج",
+				"uk":"Сідло-платформа",
 				"vi":"Yên Platform"
 			},
 			"o":43,
@@ -416,6 +433,7 @@
 				"nl":"Meerdere-Passagiers",
 				"pt":"Multi-Passageiros",
 				"ar":"متعدد الركاب",
+				"uk":"Багатопасажирські",
 				"vi":"Nhiều ngưỡi cưỡi"
 			},
 			"o":44,
@@ -435,6 +453,7 @@
 				"nl":"Tek Zadel",
 				"pt":"Sela Tecnológica",
 				"ar":"سرج تيك",
+				"uk":"Тек-сідло",
 				"vi":"Yên Tek"
 			},
 			"o":45,
@@ -454,6 +473,7 @@
 				"nl":"Schouder Metgezel",
 				"pt":"Montar nos Ombros",
 				"ar":"يوضع على الكتف",
+				"uk":"Беруться на плече",
 				"vi":"Để lên vai"
 			},
 			"o":46,
@@ -474,6 +494,7 @@
 				"nl":"Tembaar",
 				"pt":"Domesticável",
 				"ar":"قابل للترويض",
+				"uk":"Приборкуються",
 				"vi":"Có thể thuần hóa"
 			},
 			"o":50,
@@ -494,6 +515,7 @@
 				"nl":"Niet Tembaar",
 				"pt":"Não Domesticável",
 				"ar":"غير قابل للترويض",
+				"uk":"Не приборкуються",
 				"vi":"Không thể thuần hóa"
 			},
 			"o":51,
@@ -514,6 +536,7 @@
 				"nl":"Temmen door bewusteloosheid",
 				"pt":"Domável Inconsciente",
 				"ar":"ترويض عبر التخدير",
+				"uk":"Приборкання приголомшенням",
 				"vi":"Thuần Hóa Bắng Bắn Gục"
 			},
 			"o":52,
@@ -534,6 +557,7 @@
 				"nl":"Passief temmen",
 				"pt":"Domesticação passiva",
 				"ar":"ترويض سلمي",
+				"uk":"Пасивне приборкання",
 				"vi":"Thuần Hóa Đút Thức Ăn"
 			},
 			"o":53,
@@ -565,6 +589,7 @@
 				"ru": "Быстрое и лёгкое приручение",
 				"th": "การเทิบสัตว์ที่รวดเร็วและง่าย",
 				"tr": "Hızlı ve Kolay Evcilleştirme",
+				"uk":"«Швидке та легке приборкання»",
 				"vi": "Thuần hóa Nhanh, gọn, lẹ",
 				"zh": "快速/简易驯服",
 				"zh-tw": "快速簡易馴化"
@@ -586,6 +611,7 @@
 				"nl":"Carnivoren",
 				"pt":"Carnívoros",
 				"ar":"آكلي اللحوم",
+				"uk":"Хижаки",
 				"vi":"Ăn thịt"
 			},
 			"o":60,
@@ -605,6 +631,7 @@
 				"nl":"Herbivoren",
 				"pt":"Herbívoros",
 				"ar":"آكلي ألاعشاب",
+				"uk":"Травоїдні",
 				"vi":"Ăn cỏ"
 			},
 			"o":61,
@@ -625,6 +652,7 @@
 				"nl":"Omnivoren",
 				"pt":"Onívoros",
 				"ar":"حيوانا اكلة النبات واللحوم",
+				"uk":"Всеїдні",
 				"vi":"Ăn tạp"
 			},
 			"o":62,
@@ -645,6 +673,7 @@
 				"nl":"Viseters",
 				"pt":"Piscívoros",
 				"ar":"حشرات",
+				"uk":"Рибоїдні",
 				"vi":"Ăn cá"
 			},
 			"o":63,
@@ -665,6 +694,7 @@
 				"nl":"Gevechts schepsels",
 				"pt":"Criaturas de Combate",
 				"ar":"مخلوقات المعركة",
+				"uk":"Бойові істоти",
 				"vi":"Sinh Vật Chiến Đấu"
 			},
 			"o":70,
@@ -685,6 +715,7 @@
 				"nl":"Verzamelaars",
 				"pt":"Colhedores",
 				"ar":"مخلوقات جمع الموارد",
+				"uk":"Збирачі",
 				"vi":"Sinh Vật Thu Hoạch"
 			},
 			"o":71,
@@ -705,6 +736,7 @@
 				"nl":"Werk Ezel",
 				"pt":"Transportadores",
 				"ar":"حيوانات مجموعه",
+				"uk":"Транспортувальні",
 				"vi":"Di chuyển tốt"
 			},
 			"o":72,
@@ -725,6 +757,7 @@
 				"nl":"Snelle schepsels",
 				"pt":"Criaturas Rápidas",
 				"ar":"مخلوقات سريعه",
+				"uk":"Швидкі істоти",
 				"vi":"Sinh Vật Nhanh"
 			},
 			"o":73,
@@ -744,6 +777,7 @@
 				"nl":"Broedbaar",
 				"pt":"Reproduzíveis",
 				"ar":"قابل للتكاثر",
+				"uk":"Розмножувальні істоти",
 				"vi":"Có thể phối giống"
 			},
 			"o":80,
@@ -764,6 +798,7 @@
 				"nl":"Begin spel",
 				"pt":"Começo de Jogo",
 				"ar":"بداية اللعبة",
+				"uk":"Рання стадія гри",
 				"vi":"Đầu Game"
 			},
 			"o":81,
@@ -784,6 +819,7 @@
 				"nl":"Midden spel",
 				"pt":"Meio de Jogo",
 				"ar":"منتصف اللعبة",
+				"uk":"Середня стадія гри",
 				"vi":"Giữa Game"
 			},
 			"o":82,
@@ -804,6 +840,7 @@
 				"nl":"Eind spel",
 				"pt":"Fim de Jogo",
 				"ar":"نهاية اللعبة",
+				"uk":"Кінцева стадія гри",
 				"vi":"Cuối Game"
 			},
 			"o":83,
@@ -823,6 +860,7 @@
 				"nl":"Bazen",
 				"pt":"Chefes",
 				"ar":"الزعماء",
+				"uk":"Боси",
 				"vi":"Boss"
 			},
 			"o":84,
@@ -878,6 +916,7 @@
 				"ru":"Возможность езды с оружием в руках",
 				"th":"ขี่ได้ขณะถืออาวุธ",
 				"tr":"Silah kullanırken binilebilir",
+				"uk":"Можна їздити зі зброєю в руках",
 				"vi":"Có thể cưỡi trong khi cầm vũ khí",
 				"zh":"骑乘时挥舞武器",
 				"zh-tw":"騎乘時揮舞武器"
@@ -902,6 +941,7 @@
 				"nl":"Kaart",
 				"pt":"Mapa",
 				"ar":"خريطه",
+				"uk":"Мапа",
 				"vi":"Bản đồ"
 			}
 		},
@@ -920,6 +960,7 @@
 				"nl":"Alleen vekrijgbaar met uibreidings paket",
 				"pt":"Pacore de expansão exclusivo",
 				"ar":"حزمه الاضافه حصريه",
+				"uk":"Ексклюзиви доповнень",
 				"vi":"Chỉ xuất hiện ở các DLC"
 			}
 		},
@@ -936,6 +977,7 @@
 				"zh-tw":"棲息地",
 				"nl":"Habitat",
 				"ar":"موطن",
+				"uk":"Середовище існування",
 				"vi":"Môi trường sống"
 			}
 		},
@@ -953,6 +995,7 @@
 				"nl":"Rijdbaarheid",
 				"pt":"Guiabiliade",
 				"ar":"قابلية التخيل",
+				"uk":"Керованість",
 				"vi":"Có thể cưỡi"
 			}
 		},
@@ -976,6 +1019,7 @@
 				"tr":"Evcilleştirme",
 				"nl":"Temmen",
 				"ar":"ترويض",
+				"uk":"Приборкання",
 				"vi":"Thuần Hóa"
 			}
 		},
@@ -992,6 +1036,7 @@
 				"nl":"Dieët",
 				"pt":"Dieta",
 				"ar":"التغذية",
+				"uk":"Дієта",
 				"vi":"Thức ăn"
 			}
 		},
@@ -1016,6 +1061,7 @@
 				"tr":"Faydaları",
 				"nl":"Nuttigheid",
 				"ar":"الأستخدامات",
+				"uk":"Корисність",
 				"vi":"Đa năng"
 			}
 		},
@@ -1039,6 +1085,7 @@
 				"tr":"Daha Fazla",
 				"nl":"Meer",
 				"ar":"المزيد",
+				"uk":"Більше",
 				"vi":"Thêm"
 			}
 		}
